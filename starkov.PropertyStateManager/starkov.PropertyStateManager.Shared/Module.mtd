@@ -1,0 +1,120 @@
+{
+  "$type": "Sungero.Metadata.SolutionMetadata, Sungero.Metadata",
+  "NameGuid": "000fe8e6-2551-4115-bfdf-5e6d0654380a",
+  "Name": "PropertyStateManager",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "starkov.PropertyStateManager.Client",
+  "ClientBaseAssemblyName": "starkov.PropertyStateManager.ClientBase",
+  "ClientBaseNamespace": "starkov.PropertyStateManager.ClientBase",
+  "ClientNamespace": "starkov.PropertyStateManager.Client",
+  "Code": "Propert",
+  "CompanyCode": "starkov",
+  "Cover": {
+    "NameGuid": "2c3c0192-613c-4258-a545-dbbdc217144f",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "946867d2-f3a8-4f80-9497-b444f6429d60",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "92ab753e-c502-4ec8-8f54-04b530c895ea",
+      "BackgroundPosition": "Stretch"
+    },
+    "RemoteControls": [],
+    "Tabs": []
+  },
+  "DesktopViews": [],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "46cd95c7-6015-4ac8-b5c2-d2285ff03b84"
+    }
+  ],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "starkov.PropertyStateManager",
+  "IsolatedAssemblyName": "starkov.PropertyStateManager.Isolated",
+  "IsolatedNamespace": "starkov.PropertyStateManager.Isolated",
+  "IsVisible": false,
+  "OrderedSpecialFolders": [],
+  "PublicStructures": [],
+  "RemoteComponents": [
+    {
+      "NameGuid": "a910d062-3240-4e4e-a3b2-2eae6edab4fc",
+      "Name": "CriteriaControl",
+      "ComponentVersion": "1.1",
+      "Controls": [
+        {
+          "NameGuid": "84dd376c-49ce-4db9-91fd-1573960c6a11",
+          "Name": "DisplayNameControl",
+          "DisplayNames": [
+            {
+              "NameGuid": "6d43ecd4-4e44-47b7-b9f9-c7468adaffac",
+              "DisplayName": "DisplayNameControl",
+              "Locale": "en"
+            },
+            {
+              "NameGuid": "e5507ff8-5263-428e-8cfa-8ff706bb2496",
+              "DisplayName": "Отображаемое имя свойства",
+              "Locale": "ru"
+            }
+          ],
+          "Loaders": [
+            {
+              "NameGuid": "09c9096c-1c37-4962-8ced-94224f807e1f",
+              "Name": "DisplayNameControl"
+            }
+          ]
+        },
+        {
+          "NameGuid": "d1e10892-3a23-4387-b591-d06578c27c07",
+          "Name": "Criteria",
+          "DisplayNames": [
+            {
+              "NameGuid": "0236d02f-55ce-44ba-8199-2daf4ca1b4ac",
+              "DisplayName": "Criteria",
+              "Locale": "en"
+            },
+            {
+              "NameGuid": "efae5b4c-6029-458b-9e1e-120373fd0a81",
+              "DisplayName": "Критерии",
+              "Locale": "ru"
+            }
+          ],
+          "Loaders": [
+            {
+              "NameGuid": "bb991bee-5de5-4264-9dd7-42c1803c628b",
+              "Name": "Criteria"
+            }
+          ]
+        }
+      ],
+      "HostApiVersion": "1.0.2",
+      "PublicName": "Directum_CriteriaControl_1_1"
+    }
+  ],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "starkov.PropertyStateManager",
+  "ServerAssemblyName": "starkov.PropertyStateManager.Server",
+  "ServerNamespace": "starkov.PropertyStateManager.Server",
+  "SharedAssemblyName": "starkov.PropertyStateManager.Shared",
+  "SharedNamespace": "starkov.PropertyStateManager.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "SolutionMetadata",
+      "Number": 12
+    },
+    {
+      "Type": "ModuleMetadata",
+      "Number": 12
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}
